@@ -1,5 +1,6 @@
 1.Bananas
-2.Peach3.Dragon Fruit
+2.Peach
+3.Dragon Fruit
 4.Pears
 5.Kiwi
 6.Mango
