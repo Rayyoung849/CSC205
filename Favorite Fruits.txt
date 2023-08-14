@@ -4,5 +4,4 @@
 5.Kiwi
 6.Mango
 7.Durian
-8.Orange
 9.Lychee
